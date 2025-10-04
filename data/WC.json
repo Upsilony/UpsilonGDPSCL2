@@ -1,0 +1,18 @@
+{
+    "id": 1057,
+    "name": "Wave challenge",
+    "author": "brstudios",
+    "creators": ["brstudios"],
+    "verifier": "brstudios",
+    "verification": "https://youtu.be/NVMiHpUHFzY",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Upsilony",
+            "link": "https://youtu.be/NVMiHpUHFzY",
+            "percent": 100,
+            "mobile": true
+        }
+    ],
+    "tags": ["First-Placed", "OG"]
+}
